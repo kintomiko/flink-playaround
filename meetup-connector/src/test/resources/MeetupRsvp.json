@@ -1,0 +1,84 @@
+{
+  "venue": {
+    "venue_name": "UploadVR Office",
+    "lon": -122.417549,
+    "lat": 37.773739,
+    "venue_id": 24419151
+  },
+  "visibility": "public",
+  "response": "yes",
+  "guests": 0,
+  "member": {
+    "member_id": 217363257,
+    "photo": "http://photos3.meetupstatic.com/photos/member/b/e/6/f/thumb_262188751.jpeg",
+    "member_name": "Matt"
+  },
+  "rsvp_id": 1651324427,
+  "mtime": 1486147964000,
+  "event": {
+    "event_name": "Non-Gaming VR Meet-up #8: VR + Travel ",
+    "event_id": "237383400",
+    "time": 1487905200000,
+    "event_url": "https://www.meetup.com/Non-Gaming-VR/events/237383400/"
+  },
+  "group": {
+    "group_topics": [
+      {
+        "urlkey": "edtech",
+        "topic_name": "Education & Technology"
+      },
+      {
+        "urlkey": "education",
+        "topic_name": "Education"
+      },
+      {
+        "urlkey": "newtech",
+        "topic_name": "New Technology"
+      },
+      {
+        "urlkey": "cloud-computing",
+        "topic_name": "Cloud Computing"
+      },
+      {
+        "urlkey": "learning",
+        "topic_name": "Learning"
+      },
+      {
+        "urlkey": "augmented-reality",
+        "topic_name": "Augmented Reality"
+      },
+      {
+        "urlkey": "virtual-reality",
+        "topic_name": "Virtual Reality"
+      },
+      {
+        "urlkey": "saas-software-as-a-service",
+        "topic_name": "SaaS (Software as a Service)"
+      },
+      {
+        "urlkey": "b2b",
+        "topic_name": "B2B"
+      },
+      {
+        "urlkey": "human-computer-interaction",
+        "topic_name": "Human-Computer Interaction"
+      },
+      {
+        "urlkey": "mixed-reality",
+        "topic_name": "Mixed Reality"
+      },
+      {
+        "urlkey": "oculus-rift",
+        "topic_name": "Oculus Rift"
+      }
+    ],
+    "group_city": "San Francisco",
+    "group_country": "us",
+    "group_id": 19298998,
+    "group_name": "Non-Gaming Virtual Reality - San Francisco",
+    "group_lon": -122.42,
+    "group_urlname": "Non-Gaming-VR",
+    "group_state": "CA",
+    "group_lat": 37.75
+  }
+}
